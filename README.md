@@ -1,1 +1,1 @@
-<img src="https://github.com/dduyg/linkss/blob/49ecf1281e465040447ba11a18dde3824709f496/Hello.gif" width="160" height="55" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=4000&pause=800&color=01868C&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Duygu;It%E2%80%99s+nice+to+meet+you)](https://git.io/typing-svg)
