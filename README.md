@@ -1,3 +1,8 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h4 align="center"><samp> Hi there 👋🏾 welcome to my Github! I'm a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=4000&pause=800&color=01868C&vCenter=true&width=435&height=35&lines=Hello+there%2C;I'm+Duygu%2C;It%E2%80%99s+nice+to+meet+you.;Stay+awesome!+%F0%9F%98%84)](https://git.io/typing-svg)
+<p align="center"> <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> </p> 
+<p align="center"> <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a> <a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a> <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a> </p> 
+
+<p align="center"><samp> Check out my repos ⬇️ </samp> </p>
+
+
